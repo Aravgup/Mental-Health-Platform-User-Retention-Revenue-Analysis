@@ -83,5 +83,5 @@ These can be used to build dashboards in tools like Looker Studio.
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project highlights how data can be used to understand user behavior and improve product performance. By focusing on retention and user experience, the platform can significantly increase both engagement and revenue.
